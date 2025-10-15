@@ -305,7 +305,7 @@ make dist
 
 ## 👨‍💻 Автор
 
-**Whiterage** - *Senior C++ Developer*
+**Whiterage** - *C++ Developer*
 
 - 🐙 GitHub: [@whiterage](https://github.com/whiterage)
 - 📧 Email: zecompanygang@gmail.com
